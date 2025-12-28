@@ -1,6 +1,0 @@
-git remote -v
-
-origin  https://github.com/ariqhidayat/expressBookReviews.git (fetch)
-origin  https://github.com/ariqhidayat/expressBookReviews.git (push)
-upstream https://github.com/ibm-developer-skills-network/expressBookReviews.git (fetch)
-upstream https://github.com/ibm-developer-skills-network/expressBookReviews.git (push)
